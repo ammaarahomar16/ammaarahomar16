@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Ammaarah Omar 👋
 
-<!--
-**ammaarahomar16/ammaarahomar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Security Engineer at BMW IT Hub with a background in Information Systems and a passion for Cloud, Data Engineering, Cyber Security and Business Analysis.
 
-Here are some ideas to get you started:
+💼 Current Focus
+AWS Cloud
+Python
+SQL
+Data Engineering
+Cloud Security
+Power BI
+Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certifications
+AWS Certified Cloud Practitioner
+Microsoft Azure Fundamentals (AZ-900)
+
+📚 Education
+
+BCom Informatics and Information Systems - University of Pretoria
+BCom Informatics and Information Sytems Honours  - University of Pretoria
+
+🔭 Currently Working On
+AWS Glue ETL projects
+SQL analytics
+Python automation
+Security dashboards
